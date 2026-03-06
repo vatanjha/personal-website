@@ -130,3 +130,26 @@ text-align:center;
 padding:20px;
 
 }
+.certificates{
+padding:40px;
+text-align:center;
+}
+
+.certificate-list{
+list-style:none;
+padding:0;
+}
+
+.certificate-list li{
+margin:15px 0;
+font-size:18px;
+}
+
+.certificate-list a{
+text-decoration:none;
+color:#0066cc;
+}
+
+.certificate-list a:hover{
+text-decoration:underline;
+}
