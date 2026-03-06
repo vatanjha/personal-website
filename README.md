@@ -1,2 +1,102 @@
 # personal-website
 My website
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>My Personal Website</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- Navigation Bar -->
+<nav>
+
+<div class="logo">Your Name</div>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="book.html">Book</a></li>
+<li><a href="gallery.html">Photo Gallery</a></li>
+<li><a href="resume.html">Resume</a></li>
+<li><a href="teaching.html">Teaching</a></li>
+<li><a href="publications.html">Publications</a></li>
+<li><a href="certificates.html">Certificates</a></li>
+
+</ul>
+
+</nav>
+
+
+<!-- Banner Section -->
+<section class="banner">
+
+<img src="images/banner.jpg">
+
+</section>
+
+
+
+<!-- About Section -->
+<section class="about">
+
+<div class="about-container">
+
+<img src="images/profile.jpg" class="profile-photo">
+
+<p>
+
+Write your introduction here.
+
+Example:
+
+I am a researcher working in mathematical modeling, dynamical systems,
+and computational science. My work focuses on interdisciplinary research
+combining mathematics, physics, and computational tools.
+
+</p>
+
+</div>
+
+</section>
+
+
+
+<!-- Gallery Section -->
+<section class="gallery">
+
+<h2>Photo Gallery</h2>
+
+<div class="gallery-grid">
+
+<img src="images/photo1.jpg">
+<img src="images/photo2.jpg">
+<img src="images/photo3.jpg">
+<img src="images/photo4.jpg">
+
+</div>
+
+</section>
+
+
+
+<!-- Footer -->
+<footer>
+
+<p>Email: your_email@gmail.com</p>
+
+</footer>
+
+
+</body>
+</html>
+
